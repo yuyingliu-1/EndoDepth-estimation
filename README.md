@@ -13,6 +13,6 @@ We have ran our experiments under CUDA 11.0, CuDNN 8.0 and Ubuntu 20.04.3. We re
 pip install torch==1.7.0+cu110 torchvision==0.8.0+cu110 torchaudio==0.7.0 -f https://download.pytorch.org/whl/torch_stable.html
 
 # 其它依赖库:
-pip install Pillow
-pip install matplotlib
-pip install scikit-image
+pip3 install -r path/to/Endo-Depth-and-Motion/requirements.txt
+
+# 
