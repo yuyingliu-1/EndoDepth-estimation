@@ -18,6 +18,12 @@ pip install torch==1.7.0+cu110 torchvision==0.8.0+cu110 torchaudio==0.7.0 -f htt
 
 # DATA
 1.UCL dataset
-
+xxxxxxxxxx
 2.Endoslam dataset
+xxxxxxxxx
+xxxxxxxxxxxxxxxxx
 
+# Reference
+
+1. C. Godard, O. Mac Aodha, M. Firman, G. J. Brostow, Digging into self-supervised monocular depth estimation, in: Proceedings of the IEEE/CVF International Conference on Computer Vision, 2019, pp. 3828–3838.
+  
